@@ -1,5 +1,5 @@
 # Sales_Dashbord
-### Created Sales Dashbord using visulization tool PowerBI and using some graphs and charts which shows this dashbord in atteractive way
+### Created Sales Dashbord which give us a proper information about our products and their performance using visulization tool PowerBI 
 ## Methods
 - ETL
 - EDA
