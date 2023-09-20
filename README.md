@@ -5,7 +5,7 @@
 - Issue with insights into his business, the overall sales are declining but the regional managers are not giving the proper insights into the sales.
 - Dozens of data.
 - In need of data-driven decisions.
-- 
+
 ### Learnings: 
 Through this project, I gained valuable skills in several areas, including:
 - working with the AIMS grid
