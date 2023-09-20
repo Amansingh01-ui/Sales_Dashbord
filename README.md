@@ -2,10 +2,10 @@
 
 ### Learnings: 
 Through this project, I gained valuable skills in several areas, including:
--working with the AIMS grid
--performing ETL operations
--cleaning and normalizing data
--using DAX language to create custom visualizations.
+- working with the AIMS grid
+- performing ETL operations
+- cleaning and normalizing data
+- using DAX language to create custom visualizations.
 I also learned about how data analysis projects are executed in big companies, which was an eye-opening experience.
 
 ### AIMS Grid:
